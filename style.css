@@ -176,7 +176,6 @@ body, html {
     display: flex;
     overflow-x: auto;
     scroll-behavior: smooth;
-    scrollbar-width: none;
     margin-left: 30px;
   }
   .products-container::-webkit-scrollbar {
